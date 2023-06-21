@@ -6,7 +6,7 @@
 
 <div align="center"> 
 
-[![WELCOME MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=750&height=80&lines=👋+WELCOME+TO+MY+PYTHON+🐍+ADVANCED+REPOSITORY+📘)](https://github.com/creativepuru/Python-Advanced)
+[![WELCOME MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=750&height=80&lines=👋+WELCOME+TO+MY+🐍+PYTHON+ADVANCED+REPOSITORY+📘)](https://github.com/creativepuru/Python-Advanced)
 
 </div>
 
