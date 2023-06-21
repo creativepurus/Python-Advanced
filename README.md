@@ -36,10 +36,11 @@
 <br> </br>
 
 <!-- 
-# 🔰 ABOUT 
-- ✨ I wanted to share some amazing free resources for learning Python! 🤓👨‍🎓👩‍🎓
-- ✨ If you're interested in learning Python or want to enhance your skills, these resources are perfect for you! 🚀
-- 🤓 Whether you're a beginner or an experienced programmer, these resources will help you enhance your skills and take your coding abilities to the next level. 💪
+# ABOUT 
+- ✨ Welcome to the Python-Advanced repository, your ultimate resource for taking your Python skills to the next level! 💪🚀
+- ✨ Here, you'll find a curated collection of advanced Python concepts, techniques, and best practices that will empower you to become a true Python ninja. 🐱‍👤🔥
+- 🤓 Delve into the fascinating world of Python's advanced topics, such as object-oriented programming (OOP), functional programming (FP), and more. 
+- 🎯🔬 Explore powerful design patterns, master the art of writing efficient algorithms, and unlock the secrets of Python's magic methods. ✨💡
 
 # 👨‍💻 Getting Started 
 - To get started, you'll need to have `Python` installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
@@ -49,11 +50,11 @@ pip install jupyter
 ```
 - Once you have `Python` and `Jupyter` installed, you can `clone` this repository:
 ```
-git clone https://github.com/creativepuru/Python-Basics.git
+git clone https://github.com/creativepuru/Python-Advanced.git
 ```
 - Then, navigate to the directory where the repository was cloned and start Jupyter by using below commands :
 ```
-cd <Python-Basics>
+cd <Python-Advanced>
 jupyter notebook
 ```
 - This will open the `Jupyter notebook interface` in your default `web browser`. From here, you can navigate to the notebooks directory and open any of the notebooks to view the code examples.
