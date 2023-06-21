@@ -13,7 +13,7 @@
 
 </div>
 
-[![ABOUT MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=1000&pause=1000&multiline=true&width=1200&height=200&lines=📚+This+repository+is+a+treasure+trove+of+Advanced+Python+🐍+techniques,+tips,+and+tricks+🤓;✨+I+am+constantly+adding+new+contents.;💭+So+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru)
+[![ABOUT MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=1000&pause=1000&multiline=true&width=1200&height=100&lines=📚+This+repository+is+a+treasure+trove+of+Advanced+Python+🐍+techniques,+tips,+and+tricks+🤓;✨+I+am+constantly+adding+new+contents.;💭+So+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru)
 
 # 📚 Table of Contents
 ### 🔰 [ABOUT](#about)
