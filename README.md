@@ -22,7 +22,7 @@
 ### 📣 [CONTRIBUTIONS 🤝](#feedback--contributions)
 ### 📲 [SOCIAL LINKS 💻](#social-links)
 ### 📖 [LICENSE](#license)
-### 👉🏻 [BMC ☕](#support-my-work)
+### 👉🏻 [BUY ME COFFEE ☕](#support-my-work)
 
 <br> </br>
 
