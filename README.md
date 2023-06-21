@@ -15,14 +15,14 @@
 [![ABOUT MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=26&duration=1000&pause=1000&multiline=true&width=1200&height=200&lines=📚+This+repository+is+a+treasure+trove+of+Advanced+Python+🐍+techniques,+tips,+and+tricks+🤓;✨+I+am+constantly+adding+new+contents.;💭+So+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru)
 
 # 📚 Table of Contents
-- 🔰 ABOUT
-- 💻 Getting Started
-- 🔰 Description
-- 📣 Feedback & Contributions 🤝
-- 📲 How to reach me 💻
-- 🚀 Let's learn and grow together!
-- 📖 License
-- 🤝 SUPPORT ME 👉🏻 Buy Me a Coffee ☕
+### 🔰 [ABOUT](#about)
+### 💻 [GETTING STARTED](#getting-started)
+### 🔰 [DESCRIPTION](#description)
+### 📣 [CONTRIBUTIONS 🤝](#feedback--contributions)
+### 📲 [SOCIAL LINKS 💻](#social-links)
+### 📖 [LICENSE](#license)
+### 👉🏻 [BMC ☕](#support-my-work)
+
 
 <!-- >
 # 🔰 ABOUT 
