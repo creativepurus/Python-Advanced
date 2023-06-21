@@ -4,11 +4,11 @@
 
 <div align="center"> 
 
-[![WELCOME MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=750&height=80&lines=👋+WELCOME+TO+MY+PYTHON+🐍+BASICS+REPOSITORY+📘)](https://github.com/creativepuru/Python-Basics)
+[![WELCOME MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=750&height=80&lines=👋+WELCOME+TO+MY+PYTHON+🐍+ADVANCED+REPOSITORY+📘)](https://github.com/creativepuru/Python-Advanced)
 
 </div>
 
-[![ABOUT MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=22&duration=1000&pause=1000&multiline=true&width=1500&height=200&lines=📚+This+repository+contains+a+collection+of+codes+related+to+Python+Basics+🐍;🦾+Created+by+me+@creativepuru;📚+This+is+my+very+first+Github+Repository;🚀+I+am+creating+this+Repository+on+April+11+2023+🤓;✨+I+am+constantly+adding+new+contents.;💭+So+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru)
+[![ABOUT MESSAGE](https://readme-typing-svg.demolab.com?font=Calibri&size=22&duration=1000&pause=1000&multiline=true&width=1500&height=200&lines=📚+This+repository+is+a+treasure+trove+of+Advanced+Python+🐍+techniques,+tips,+and+tricks+🤓+to+level+up+your+programming+skills;✨+I+am+constantly+adding+new+contents.;💭+So+make+sure+to+check+back+often+🕙)](https://github.com/creativepuru)
 
 # 📚 Table of Contents
 - 🔰 ABOUT
@@ -20,6 +20,7 @@
 - 📖 License
 - 🤝 SUPPORT ME 👉🏻 Buy Me a Coffee ☕
 
+<!-- >
 # 🔰 ABOUT 
 - ✨ I wanted to share some amazing free resources for learning Python! 🤓👨‍🎓👩‍🎓
 - ✨ If you're interested in learning Python or want to enhance your skills, these resources are perfect for you! 🚀
@@ -67,10 +68,7 @@ If you have any suggestions for improving the code or adding new notebooks, feel
 
 [![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-📲%20Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=creativepuru "Purushottam Anand's LinkedIn Profile")
 
-[![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-round&logo=linkedin)](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=creativepuru "Purushottam Anand's LinkedIn Profile")    <!-- LinkedIn -->
-[![Purushottam Anand's Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-round&logo=twitter)](https://openinapp.co/twitterpuru "Purushottam Anand's Twitter Handle")               <!-- Twitter -->
-[![Purushottam Anand's Facebook](https://img.shields.io/badge/-Facebook-white?style=flat-round&logo=facebook)](https://openinapp.co/fbpuru "Purushottam Anand's Facebook Profile")             <!-- Facebook -->
-[![Purushottam Anand's Instagram](https://img.shields.io/badge/-Instagram-white?style=flat-round&logo=instagram)](https://openinapp.co/instapuru "Purushottam Anand's Instagram Profile")            <!-- Instagram -->
+[![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-round&logo=linkedin)](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=creativepuru "Purushottam Anand's LinkedIn Profile")
 
 [![Purushottam Anand's Email](https://img.shields.io/badge/Gmail-use%20Desktop%20/%20Laptop%20to%20open%20Gmail-blue?style=social&logo=gmail)](https://openinapp.co/gmailpuru "Gmail - use Desktop / Laptop to open Gmail")
 
