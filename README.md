@@ -26,23 +26,15 @@
 
 <br> </br>
 
-### WORK IN 
-### PROGRESS
-### .
-### ..
-### ...
-### ....
-
-<br> </br>
-
-<!-- 
-# ABOUT 
+# ABOUT
 - ✨ Welcome to the Python-Advanced repository, your ultimate resource for taking your Python skills to the next level! 💪🚀
 - ✨ Here, you'll find a curated collection of advanced Python concepts, techniques, and best practices that will empower you to become a true Python ninja. 🐱‍👤🔥
 - 🤓 Delve into the fascinating world of Python's advanced topics, such as object-oriented programming (OOP), functional programming (FP), and more. 
 - 🎯🔬 Explore powerful design patterns, master the art of writing efficient algorithms, and unlock the secrets of Python's magic methods. ✨💡
 
-# 👨‍💻 Getting Started 
+<br> </br>
+
+# Getting Started
 - To get started, you'll need to have `Python` installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
 - You'll also need to have `Jupyter` installed. You can install it using `pip` using below commands :
 ```
@@ -59,58 +51,21 @@ jupyter notebook
 ```
 - This will open the `Jupyter notebook interface` in your default `web browser`. From here, you can navigate to the notebooks directory and open any of the notebooks to view the code examples.
 
-# 🔰 Description
-### The notebooks in this repository cover the following topics:
-- Variables and data types
-- Control structures (if/else statements, loops)
-- Lists, tuples, and dictionaries
-- Functions
-- Classes and objects
-- File input/output
-- Exception Handling
-### Each notebook contains code examples and explanations of the concepts being covered. I encourage you to experiment with the code and modify it to see what happens 🤓
-
-
-# 📣 Feedback & Contributions 🤝
-If you have any suggestions for improving the code or adding new notebooks, feel free to submit a pull request. We welcome contributions from the community.
-
-- Fork the project
-- Create a new branch (git checkout -b feature/awesome-feature)
-- Make your changes and commit them (git commit -am 'Add an awesome feature')
-- Push to the branch (git push origin feature/awesome-feature)
-- Create a pull request
-
-<h1> <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&duration=2000&pause=1000&multiline=true&width=600&height=40&lines=📲+How+to+reach+me+-+Social+Links+💻+" alt="How to Reach Me" /> </h1>
-
-[![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-📲%20Connect%20on%20Linkedin-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=creativepuru "Purushottam Anand's LinkedIn Profile")
-
-[![Purushottam Anand's LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-round&logo=linkedin)](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=creativepuru "Purushottam Anand's LinkedIn Profile")
-
-[![Purushottam Anand's Email](https://img.shields.io/badge/Gmail-use%20Desktop%20/%20Laptop%20to%20open%20Gmail-blue?style=social&logo=gmail)](https://openinapp.co/gmailpuru "Gmail - use Desktop / Laptop to open Gmail")
-
-[![Purushottam Anand's GitHub](https://img.shields.io/badge/GitHub-❤️%20Sponsor%20me%20on%20GitHub-gr?style=for-the-badge&logo=github)](https://openinapp.co/githubpuru "Purushottam Anand's GitHub Page")
-
-# 🚀 Let's learn and grow together!
-- 🤖 We believe that the future belongs to those who master these skills, and we're excited to be a part of your journey. 
-- 💪 If you're ready to up your Python game, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/creativepuru "Purushottam Anand on Linkedin") and never miss out on these valuable resources! 🚀
-- 👨‍💻 Happy coding! 🎉
-
-### ❤️ Thank you for visiting my repository, and happy exploring 🤗
-
-# 📖 License
-### My [Python-Basics repository](https://github.com/creativepuru/Python-Basics) is licensed under the [Creative Commons Zero v1.0 Universal](https://github.com/creativepuru/Python-Basics/blob/main/LICENSE.txt) License. 
-- See [LICENSE](https://github.com/creativepuru/Python-Basics/blob/main/LICENSE.txt) for more information.
 <br> </br>
 
-## 🤝 SUPPORT ME 👉🏻 [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee%20☕-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/creativepuru)
+# Description
+### The notebooks in this repository cover the following topics:
+- Functions
+- Class and Objects
+- File input/output
+- Exception Handling
+- Numpy Library
+- Pandas Library
+- Many more Libraries....
 
-<p align="right">
-<a href="#top">
-<img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=red&style=for-the-badge&logo" alt="Back to Top" /> </a> </p>
+### Each notebook contains code examples and explanations of the concepts being covered. I encourage you to experiment with the code and modify it to see what happens 🤓
 
-</b>
-
--->
+<br> </br>
 
 # Feedback & Contributions
 ### If you have any suggestions for improving the code or adding new notebooks, feel free to submit a pull request. We welcome contributions from the community.
