@@ -54,7 +54,7 @@ jupyter notebook
 
 # Description
 ### The notebooks in this repository cover the following topics:
-- Functions
+- [Functions](https://github.com/creativepuru/Python-Advanced/blob/main/01%20-%20Functions%20Part%201.ipynb)
 - Class and Objects
 - File input/output
 - Exception Handling
