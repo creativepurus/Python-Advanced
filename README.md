@@ -22,6 +22,7 @@
 ### 📣 [CONTRIBUTIONS 🤝](#feedback--contributions)
 ### 📲 [SOCIAL LINKS 💻](#social-links)
 ### 📖 [LICENSE](#license)
+### 💡 [SURPRISE](#surprise)
 ### 👉🏻 [BUY ME COFFEE ☕](#support-my-work)
 
 <br> </br>
@@ -104,6 +105,9 @@ jupyter notebook
 # License
 ### My [Python Advanced](https://github.com/creativepuru/Python-Advanced) is licensed under the [Creative Commons Zero v1.0 Universal](https://github.com/creativepuru/Python-Advanced/blob/main/LICENSE.txt) License. 
 - See [LICENSE](https://github.com/creativepuru/Python-Advanced/blob/main/LICENSE.txt) for more information.
+
+# SURPRISE
+### 📚 Visit My Previous Repository 👉🏻 [Python Basics](https://github.com/creativepuru/Python-Basics) to excel the basics of Python !
 
 ## SUPPORT MY WORK
 
