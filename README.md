@@ -28,8 +28,11 @@
 
 # ABOUT
 - ✨ Welcome to the Python-Advanced repository, your ultimate resource for taking your Python skills to the next level! 💪🚀
+
 - ✨ Here, you'll find a curated collection of advanced Python concepts, techniques, and best practices that will empower you to become a true Python ninja. 🐱‍👤🔥
+
 - 🤓 Delve into the fascinating world of Python's advanced topics, such as object-oriented programming (OOP), functional programming (FP), and more. 
+
 - 🎯🔬 Explore powerful design patterns, master the art of writing efficient algorithms, and unlock the secrets of Python's magic methods. ✨💡
 
 <br> </br>
