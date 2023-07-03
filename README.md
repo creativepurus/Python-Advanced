@@ -54,8 +54,18 @@ jupyter notebook
 
 # Description
 ### The notebooks in this repository cover the following topics:
-- [Functions](https://github.com/creativepuru/Python-Advanced/blob/main/01%20-%20Functions%20Part%201.ipynb)
-- Class and Objects
+- [Functions - Part 1](https://github.com/creativepuru/Python-Advanced/blob/main/01%20-%20Functions%20Part%201.ipynb)
+- [Functions - Part 2]()
+- [Generator Functions]()
+- [Lambda Functions]()
+- [Map, Reduce & Filter Functions]()
+- [OOPS (Object Oriented Programming)]()
+- [Polymorphism]()
+- [Encapsulation]()
+- [Inheritance]()
+- [Abstraction]()
+- [Decorators]()
+- [Class Methods]()
 - File input/output
 - Exception Handling
 - Numpy Library
