@@ -55,8 +55,9 @@ jupyter notebook
 # Description
 ### The notebooks in this repository cover the following topics:
 - [Functions - Part 1](https://github.com/creativepuru/Python-Advanced/blob/main/01%20-%20Functions%20Part%201.ipynb)
-- [Functions - Part 2]()
-- [Generator Functions]()
+- [Functions - Part 2](https://github.com/creativepuru/Python-Advanced/blob/main/02%20-%20Functions%20Part%202.ipynb)
+- [Generator Functions - 1](https://github.com/creativepuru/Python-Advanced/blob/main/03%20-%20Generator%20Functions.ipynb)
+- [Generator Functions - 2](https://github.com/creativepuru/Python-Advanced/blob/main/04%20-%20Generator%20Functions%202.ipynb)
 - [Lambda Functions]()
 - [Map, Reduce & Filter Functions]()
 - [OOPS (Object Oriented Programming)]()
