@@ -106,6 +106,8 @@ jupyter notebook
 ### My [Python Advanced](https://github.com/creativepuru/Python-Advanced) is licensed under the [Creative Commons Zero v1.0 Universal](https://github.com/creativepuru/Python-Advanced/blob/main/LICENSE.txt) License. 
 - See [LICENSE](https://github.com/creativepuru/Python-Advanced/blob/main/LICENSE.txt) for more information.
 
+<br> </br>
+
 # SURPRISE
 ### 📚 Visit My Previous Repository 👉🏻 [Python Basics](https://github.com/creativepuru/Python-Basics) to excel the basics of Python !
 
